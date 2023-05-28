@@ -3,7 +3,7 @@ Data visualisation using Seaborn and Matplotlib
 # DESCRIPTION
 Here the dataset is get built with visualisation models to visualise the various aspects of taken dataset.
 # PLOTS USED
-# ___________
+# -----------
 # Barplot
 # Histogram
 # Countplot
@@ -11,4 +11,4 @@ Here the dataset is get built with visualisation models to visualise the various
 # Scatterplot
 # Distplot
 # LIBRARY
-Matplotlib.pyplot  Seaborn.
+Matplotlib.pyplot;Seaborn.
